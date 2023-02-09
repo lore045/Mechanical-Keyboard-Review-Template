@@ -54,7 +54,11 @@ button {
 #result {
   padding: 20px;
   background-color: #ffc857;
-  border-radius: 5px;
+  border-style:solid;
+  border-width:2px;
+  border-color:black;
+  border-radius: 20px;
   font-size: larger;
   color: #323031;
+  box-shadow: 10px 10px #dadada;
 }
